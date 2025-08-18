@@ -1,0 +1,14 @@
+{
+    "semi": false,
+    "trailingComma": "es5",
+    "printWidth": 100,
+    "singleAttributePerLine": false,
+    "arrowParens":"avoid",
+    "endOfLine":"lf",
+    "jsxBracketSameLine": false,
+    "bracketSpacing":true,
+    "parser":"typescript"
+}
+  
+
+
